@@ -18,14 +18,14 @@
 </p>
 <br>
 
-I'm a pre-final year undergraduate student majoring in Electronics & Communication with an interest in A.G.I., NLP, and Problem Solving. Currently, I am working on Tableau, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in SQL, Python, C++, HTML, Excel, PowerBI, Tableau, BeautifulSoup, Jupyter, Colab, MATLAB. and currently I am working on some EDA projects.
+I'm a final year undergraduate student majoring in Electronics & Communication with an interest in A.G.I., NLP, LLM, Gen AI and Problem Solving. Currently, I am working on Tableau, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in SQL, Python, C++, HTML, Excel, PowerBI, Tableau, BeautifulSoup, Jupyter, Colab, MATLAB. and currently I am working on some EDA projects.
 <br>
 <br>
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
-- 🔭 I’m currently working on DATA Visualization <br>
+- 🔭 I’m currently working on DATA Visualization and Gen AI<br>
 - 🌱 I’m currently learning EDA <br>
 - 👯 I’m looking to collaborate on DATA Driven Projects  <br>
 - 📫 How to reach me: siliverisriharshini@gmail.com <be>
